@@ -1,15 +1,23 @@
 [
   {
+    "project": "CyanogenMod",
     "repository": "android_device_samsung_msm8660-common",
     "target_path": "device/samsung/msm8660-common"
   },
   {
+    "project": "CyanogenMod",
     "repository": "android_device_samsung_celox-common",
     "target_path": "device/samsung/celox-common"
   },
   {
+    "project": "CyanogenMod",
     "repository": "android_kernel_samsung_msm8660-common",
     "target_path": "kernel/samsung/msm8660-common"
+  },
+  {
+    "project": "ChameleonOS",
+    "repository": "android_vendor_samsung_skyrocket",
+    "target_path": "vendor/samsung/skyrocket"
   }
 ]
 
